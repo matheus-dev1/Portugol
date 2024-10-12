@@ -1,2 +1,2 @@
 # Portugol
-Projetos de Portugol
+Projetos Portugol
